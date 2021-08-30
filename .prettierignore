@@ -1,0 +1,8 @@
+*.snap
+*.svg
+
+node_modules/
+build/
+.vsocde/
+
+.eslintrc.js
